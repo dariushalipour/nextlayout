@@ -1,0 +1,23 @@
+{
+  "name": "nextlayout",
+  "version": "0.0.0",
+  "description": "an intuitive layout system for web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poonzah/nextlayout.git"
+  },
+  "keywords": [
+    "layout",
+    "ui"
+  ],
+  "author": "Dariush Alipour <drsh.alipour@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poonzah/nextlayout/issues"
+  },
+  "homepage": "https://github.com/poonzah/nextlayout#readme"
+}
